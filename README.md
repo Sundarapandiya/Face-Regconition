@@ -1,0 +1,1 @@
+a Face Recognition System using Deep Learning techniques to accurately detect, encode, and identify human faces from images or video streams. The system leverages Convolutional Neural Networks (CNNs) and pre-trained models (such as FaceNet, VGG-Face, or ResNet) to extract facial embeddings and perform real-time recognition with high accuracy.
